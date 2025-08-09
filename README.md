@@ -27,4 +27,5 @@ To run this notebook, you will need to have Python and the following libraries i
 pandas
 matplotlib
 numpy
-You can install these libraries using pip
+You can install these libraries using pip:
+
